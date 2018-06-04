@@ -5,7 +5,7 @@ Plans for Search Improvement
         i. deploy all available language configs to existing postgresql install
         ii. determine how to deploy additional ones (Polish, etc.)
         iii. map ISO language codes to ts config name
-    b. Langauge of the search request, as well:
+    b. Language of the search request, as well:
         i. provide mechanism in API to set  query language
         ii. guess language if nor provided? (Frontend? Backend?)
     c. What about other non-latin languages? Chinese, etc.
@@ -22,7 +22,9 @@ Plans for Search Improvement
 
 3. search language improvements
     a. allow quoted phrases for adjacency
-    b. ?
+    b. weakAND (IFF search returns nothing)
+    c. spell-check and other suggested alternate search terms
+    d. ?
 
 
 
