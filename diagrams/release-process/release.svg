@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1366 768" style="enable-background:new 0 0 1366 768;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#FFFFFF;}
+	.Illuminating_x0020_Aqua{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
+	.Arched_x0020_Green{fill:url(#SVGID_2_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
+	.Half_x0020_Highlight_x0020_Blue{fill:url(#SVGID_3_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
+	.st2{fill:#E6E6E6;}
+	.st3{fill:#2ACCFF;stroke:#1A1A1A;stroke-miterlimit:10;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:14px;}
+	.st6{font-size:12px;}
+	.st7{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st8{fill:#00FFFF;stroke:#1A1A1A;stroke-miterlimit:10;}
+	.st9{fill:#534741;}
+	.st10{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;}
+	.st11{fill:none;stroke:#1A1A1A;stroke-miterlimit:10;}
+	.st12{fill:#1A1A1A;}
+	.st13{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:2;}
+	.st14{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:2,2;}
+	.st15{fill:#2F0035;stroke:#000000;stroke-miterlimit:10;}
+	.st16{fill:#F1FFAA;stroke:#1A1A1A;stroke-miterlimit:10;}
+	.st17{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st18{font-size:10px;}
+	.st19{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3;}
+</style>
+<symbol  id="Check" viewBox="-32 -32 64 64">
+	<path d="M22.6,22.6C16.4,28.9,8.2,32,0,32s-16.4-3.1-22.6-9.4c-12.5-12.5-12.5-32.8,0-45.3C-16.4-28.9-8.2-32,0-32
+		s16.4,3.1,22.6,9.4C35.1-10.1,35.1,10.1,22.6,22.6z M19.1-19.1C14-24.2,7.2-27,0-27s-14,2.8-19.1,7.9c-10.5,10.5-10.5,27.7,0,38.2
+		C-14,24.2-7.2,27,0,27s14-2.8,19.1-7.9C29.6,8.6,29.6-8.6,19.1-19.1z"/>
+	<polygon points="-4.4,-1.5 -11,5.6 -18.3,-1.7 -18.3,-1.7 -4.5,-15.4 18.7,7.8 13.4,13.2 	"/>
+</symbol>
+<symbol  id="Restricted" viewBox="-32 -32 64 64">
+	<path d="M22.6,22.6C16.4,28.9,8.2,32,0,32c-8.2,0-16.4-3.1-22.6-9.4c-12.5-12.5-12.5-32.8,0-45.3C-16.4-28.9-8.2-32,0-32
+		c8.2,0,16.4,3.1,22.6,9.4C35.1-10.1,35.1,10.1,22.6,22.6z M-19.1,19.1C-14,24.2-7.2,27,0,27c5.5,0,10.7-1.6,15.1-4.6l-37.5-37.5
+		C-25.4-10.7-27-5.5-27,0C-27,7.2-24.2,14-19.1,19.1z M19.1-19.1C14-24.2,7.2-27,0-27c-5.5,0-10.7,1.6-15.1,4.6l37.5,37.5
+		C29.5,4.6,28.4-9.8,19.1-19.1z"/>
+</symbol>
+<symbol  id="Search_2" viewBox="-31.6 -30.6 63.2 61.3">
+	<g>
+		<g>
+			<g>
+				<path d="M-31.1-23.3c-0.7,0.8-0.7,2.1,0.1,2.8L-14-5.1c0.8,0.7,2.1,0.7,2.8-0.1l6-6.7c0.7-0.8,0.7-2.1-0.1-2.8l-16.9-15.4
+					c-0.8-0.7-2.1-0.7-2.8,0.1L-31.1-23.3z"/>
+			</g>
+		</g>
+	</g>
+	<g>
+		<path d="M9.5,30.7c2.4,0,4.8-0.4,7.2-1.2c11.6-4,17.7-16.6,13.7-28.2C27.2-7.9,18.6-13.6,9.5-13.6c-2.4,0-4.8,0.4-7.2,1.2
+			c-11.6,4-17.7,16.6-13.7,28.2C-8.3,24.9,0.3,30.6,9.5,30.7 M9.5,24.6c-6.9,0-13-4.4-15.2-10.9C-7.2,9.7-6.9,5.3-5.1,1.5
+			c1.9-3.9,5.2-6.8,9.2-8.2c1.7-0.6,3.5-0.9,5.3-0.9c6.9,0,13,4.4,15.2,10.9c1.4,4.1,1.1,8.5-0.7,12.3c-1.9,3.9-5.2,6.8-9.2,8.2l0,0
+			C13,24.4,11.2,24.6,9.5,24.6L9.5,24.6z"/>
+	</g>
+</symbol>
+<symbol  id="Tools" viewBox="-31 -31 62 62">
+	<path d="M20.8-10.6L20.8-10.6c-0.2,0-0.4,0-0.6,0L0.9,8.7c-1.4,1.4-3.3,1.7-5,1.1l3,8.8c0.5,1.5,0,3.6-1.1,4.7l-6.3,6.3
+		c-1.1,1.1-3.2,1.6-4.7,1.1l-3.8-1.3c-0.6-0.2-1-0.6-1.1-1c-0.1-0.4,0.1-0.9,0.6-1.4l4.1-4.1c1.4-1.4,1.4-3.8,0-5.2l-4.4-4.4
+		c-0.7-0.7-1.6-1.1-2.6-1.1c-1,0-1.9,0.4-2.6,1.1l-4.1,4.1c-0.5,0.5-1,0.7-1.4,0.6c-0.4-0.1-0.8-0.5-1-1.1l-1.3-3.8
+		c-0.5-1.5,0-3.6,1.1-4.7l6.3-6.3c1.1-1.1,3.2-1.6,4.7-1.1l8.8,3c-0.6-1.7-0.2-3.7,1.1-5l19.3-19.3c0-0.2,0-0.4,0-0.6
+		c0-5.6,4.6-10.2,10.2-10.2C26.4-31,31-26.4,31-20.8C31-15.1,26.4-10.6,20.8-10.6z M20.8-26.1c-3,0-5.4,2.4-5.4,5.4
+		c0,1.4,0.6,2.8,1.6,3.8c1,1,2.4,1.6,3.8,1.6c2.9,0,5.4-2.4,5.4-5.4C26.1-23.7,23.7-26.1,20.8-26.1z"/>
+</symbol>
+<pattern  width="17.5" height="19.3" patternUnits="userSpaceOnUse" id="Arrows_White_Small" viewBox="0 -19.3 17.5 19.3" style="overflow:visible;">
+	<g>
+		<rect y="-19.3" class="st0" width="17.5" height="19.3"/>
+		<path class="st1" d="M12.3-14.5l-5.2-4.8v4.3H0.5C0.2-15,0-14.7,0-14.3V-5c0,0.4,0.2,0.7,0.5,0.7h6.6V0l5.2-4.8l5.2-4.8L12.3-14.5
+			z"/>
+	</g>
+</pattern>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6.123234e-17" y2="-1">
+	<stop  offset="0" style="stop-color:#1D59F4"/>
+	<stop  offset="0.618" style="stop-color:#2D65EE"/>
+	<stop  offset="0.6292" style="stop-color:#3864F3"/>
+	<stop  offset="0.9831" style="stop-color:#00DDFC"/>
+</linearGradient>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0.7071" y2="-0.7071">
+	<stop  offset="0" style="stop-color:#1DAC43"/>
+	<stop  offset="0.9831" style="stop-color:#09360A"/>
+</linearGradient>
+<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="6.123234e-17" y2="-1">
+	<stop  offset="0" style="stop-color:#0017B8"/>
+	<stop  offset="0.618" style="stop-color:#001390"/>
+	<stop  offset="0.6292" style="stop-color:#000EA6"/>
+	<stop  offset="0.9831" style="stop-color:#00629E"/>
+</linearGradient>
+<rect x="994" y="105" class="st2" width="145" height="173"/>
+<rect x="299.5" y="171.5" class="st3" width="100" height="30"/>
+<rect x="166.5" y="249.5" class="st3" width="100" height="30"/>
+<rect x="64.7" y="86" class="st0" width="212.7" height="80.6"/>
+<text transform="matrix(1 0 0 1 114.1396 95.9399)"><tspan x="0" y="0" class="st4 st5">Continuous Testing</tspan><tspan x="-38.9" y="14.4" class="st4 st6">Dev Server (devb.cnx.org, dev.cnx.org)</tspan></text>
+<polygon class="st0" points="243,335.4 247.9,335.4 247.9,335.4 243,335.4 "/>
+<polygon class="st0" points="208.5,338.4 247.9,338.4 247.9,338.4 208.5,338.4 "/>
+<rect x="465.7" y="86" class="st0" width="212.7" height="80.6"/>
+<text transform="matrix(1 0 0 1 517.2046 95.9399)"><tspan x="0" y="0" class="st4 st5">Regression Testing</tspan><tspan x="-24.7" y="14.4" class="st4 st6">Staging Server (staging.cnx.org)</tspan></text>
+<rect x="774.7" y="86" class="st0" width="212.7" height="80.6"/>
+<text transform="matrix(1 0 0 1 859.0063 95.9399)"><tspan x="0" y="0" class="st4 st5">Release</tspan><tspan x="-22.8" y="14.4" class="st4 st6">Production Server</tspan></text>
+<line class="st7" x1="434" y1="70" x2="434" y2="757"/>
+<line class="st7" x1="803" y1="66" x2="803" y2="752"/>
+<rect x="166" y="167" class="st8" width="100" height="30"/>
+<rect x="166" y="177.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 185.6836 187.6978)" class="st4 st5">Issue #333</text>
+<g>
+	<line class="st9" x1="214.5" y1="201.5" x2="214.5" y2="245"/>
+	<g>
+		<line class="st10" x1="214.5" y1="201.5" x2="214.5" y2="243.8"/>
+		<g>
+			<path d="M209.7,237c0.2-0.1,0.5-0.1,0.7,0.2l4.1,6.5l4.1-6.5c0.1-0.2,0.5-0.3,0.7-0.2s0.3,0.5,0.2,0.7l-4.5,7.1
+				c-0.1,0.1-0.3,0.2-0.4,0.2s-0.3-0.1-0.4-0.2l-4.5-7.1c-0.1-0.1-0.1-0.2-0.1-0.3C209.5,237.2,209.6,237.1,209.7,237z"/>
+		</g>
+	</g>
+</g>
+<rect x="167" y="257.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 193.7744 267.6978)" class="st4 st5">PR #333</text>
+<rect x="1012.5" y="146.9" class="st0" width="135.5" height="177.1"/>
+<text transform="matrix(1 0 0 1 1012.4844 156.8188)"><tspan x="0" y="0" class="st4 st5">Developer:</tspan><tspan x="0" y="28" class="st4 st5">Tester: </tspan><tspan x="0" y="56" class="st4 st5">Approved:</tspan><tspan x="0" y="84" class="st4 st5">Rejected: </tspan></text>
+<rect x="299" y="175.8" class="st0" width="95" height="32.2"/>
+<text transform="matrix(1 0 0 1 314.1665 184.2778)"><tspan x="0" y="0" class="st4 st6">Milestone PR</tspan><tspan x="8.8" y="11" class="st4 st6">or Master</tspan></text>
+<rect x="10" y="279.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 24.6226 289.6978)" class="st4 st5">code review</text>
+<g>
+	<g>
+		<line class="st11" x1="104.1" y1="264.5" x2="145" y2="264.5"/>
+		<g>
+			<polygon class="st12" points="107.4,268.6 108.1,267.9 104.5,264.5 108.1,261.1 107.4,260.4 103,264.5 			"/>
+		</g>
+	</g>
+</g>
+<line class="st0" x1="210" y1="410" x2="208" y2="410"/>
+<g>
+	<g>
+		<line class="st11" x1="103" y1="272.5" x2="143.9" y2="272.5"/>
+		<g>
+			<polygon class="st12" points="140.6,276.6 139.9,275.9 143.5,272.5 139.9,269.1 140.6,268.4 145,272.5 			"/>
+		</g>
+	</g>
+</g>
+<line class="st11" x1="312.5" y1="264.5" x2="265.5" y2="264.5"/>
+<g>
+	<g>
+		<line class="st11" x1="312.5" y1="214.7" x2="312.5" y2="264.5"/>
+		<g>
+			<polygon class="st12" points="307.5,216.1 312.5,207.5 317.5,216.1 			"/>
+		</g>
+	</g>
+</g>
+<rect x="167" y="444" class="st8" width="100" height="30"/>
+<rect x="167" y="454.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 186.6836 464.6978)" class="st4 st5">Issue #333</text>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.3548 0 0 -0.3606 261.0001 167.1775)" style="overflow:visible;"/>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.3548 0 0 -0.3606 261.0001 249.1775)" style="overflow:visible;"/>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 48.6005 258.5562)" style="overflow:visible;"/>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 57.7929 267.7486)" style="overflow:visible;"/>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 68.3995 262.7989)" style="overflow:visible;"/>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.3548 0 0 -0.3606 1095.0001 150.1775)" style="overflow:visible;"/>
+<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 257 463)" style="overflow:visible;"/>
+<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 170.4999 441.6509)" style="overflow:visible;"/>
+<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 1095.4999 178.6509)" style="overflow:visible;"/>
+<rect x="166" y="312" class="st8" width="100" height="30"/>
+<rect x="166" y="322.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 185.6836 332.6978)" class="st4 st5">Issue #333</text>
+<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 167.4999 309.6509)" style="overflow:visible;"/>
+<use xlink:href="#Restricted"  width="64" height="64" x="-32" y="-32" transform="matrix(0.2344 0 0 -0.2344 256.5 331.5)" style="overflow:visible;"/>
+<rect x="166.5" y="385.5" class="st3" width="100" height="30"/>
+<rect x="167" y="393.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 193.7744 403.6978)" class="st4 st5">PR #334</text>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.3548 0 0 -0.3606 261.0001 385.1775)" style="overflow:visible;"/>
+<line class="st13" x1="369.5" y1="201" x2="369.5" y2="458.5"/>
+<g>
+	<g>
+		<line class="st14" x1="326" y1="331.5" x2="279.7" y2="331.5"/>
+		<g>
+			<polygon points="281.1,326.5 272.5,331.5 281.1,336.5 			"/>
+		</g>
+	</g>
+</g>
+<line class="st11" x1="345.5" y1="404.5" x2="264.5" y2="404.5"/>
+<g>
+	<g>
+		<line class="st11" x1="345.5" y1="214.7" x2="345.5" y2="404.5"/>
+		<g>
+			<polygon class="st12" points="340.5,216.1 345.5,207.5 350.5,216.1 			"/>
+		</g>
+	</g>
+</g>
+<line class="st13" x1="327.5" y1="202" x2="327.5" y2="332.5"/>
+<g>
+	<g>
+		<line class="st14" x1="369.5" y1="458.5" x2="279.7" y2="458.5"/>
+		<g>
+			<polygon points="281.1,453.5 272.5,458.5 281.1,463.5 			"/>
+		</g>
+	</g>
+</g>
+<rect x="12" y="418.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 26.6226 428.6978)" class="st4 st5">code review</text>
+<g>
+	<g>
+		<line class="st11" x1="104.1" y1="401.5" x2="145" y2="401.5"/>
+		<g>
+			<polygon class="st12" points="107.4,405.6 108.1,404.9 104.5,401.5 108.1,398.1 107.4,397.4 103,401.5 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="103" y1="409.5" x2="143.9" y2="409.5"/>
+		<g>
+			<polygon class="st12" points="140.6,413.6 139.9,412.9 143.5,409.5 139.9,406.1 140.6,405.4 145,409.5 			"/>
+		</g>
+	</g>
+</g>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 50.6005 397.5562)" style="overflow:visible;"/>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 59.7929 406.7486)" style="overflow:visible;"/>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 70.3995 401.7989)" style="overflow:visible;"/>
+<g>
+	<line class="st9" x1="212.5" y1="347.5" x2="212.5" y2="381.5"/>
+	<g>
+		<line class="st10" x1="212.5" y1="347.5" x2="212.5" y2="380.3"/>
+		<g>
+			<path d="M207.7,373.5c0.2-0.1,0.5-0.1,0.7,0.2l4.1,6.5l4.1-6.5c0.1-0.2,0.5-0.3,0.7-0.2s0.3,0.5,0.2,0.7l-4.5,7.1
+				c-0.1,0.1-0.3,0.2-0.4,0.2s-0.3-0.1-0.4-0.2l-4.5-7.1c-0.1-0.1-0.1-0.2-0.1-0.3C207.5,373.7,207.6,373.6,207.7,373.5z"/>
+		</g>
+	</g>
+</g>
+<line class="st15" x1="383" y1="202" x2="382.5" y2="275.5"/>
+<rect x="382.5" y="245.5" class="st16" width="100" height="62"/>
+<rect x="383" y="253.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 405.6514 263.6978)" class="st4 st5">Tag Repo</text>
+<g>
+	<g>
+		<line class="st17" x1="483" y1="285.5" x2="532.3" y2="285.5"/>
+		<g>
+			<polygon points="522.3,294 530.8,285.5 522.3,277 529.5,277 538,285.5 529.5,294 			"/>
+		</g>
+	</g>
+</g>
+<rect x="362" y="50.5" class="st0" width="145.5" height="37.5"/>
+<text transform="matrix(1 0 0 1 409.9702 57.6001)"><tspan x="0" y="0" class="st4 st18">Code freeze </tspan><tspan x="-24.5" y="11" class="st4 st18">- every other Thursday - </tspan></text>
+<rect x="466" y="254" class="st0" width="85" height="48"/>
+<text transform="matrix(1 0 0 1 493.54 261.0996)"><tspan x="0" y="0" class="st4 st18">Deploy </tspan><tspan x="-6.6" y="11" class="st4 st18">to Staging</tspan></text>
+<rect x="555" y="660" class="st8" width="100" height="30"/>
+<rect x="555" y="670.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 574.6836 680.6978)" class="st4 st5">Issue #333</text>
+<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 645 679)" style="overflow:visible;"/>
+<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 558.4999 657.6509)" style="overflow:visible;"/>
+<polygon class="st0" points="631,293.4 635.9,293.4 635.9,293.4 631,293.4 "/>
+<polygon class="st0" points="596.5,296.4 635.9,296.4 635.9,296.4 596.5,296.4 "/>
+<rect x="554" y="270" class="st8" width="100" height="30"/>
+<rect x="554" y="280.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 573.6836 290.6978)" class="st4 st5">Issue #333</text>
+<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 555.4999 267.6509)" style="overflow:visible;"/>
+<use xlink:href="#Restricted"  width="64" height="64" x="-32" y="-32" transform="matrix(0.2344 0 0 -0.2344 644.5 289.5)" style="overflow:visible;"/>
+<line class="st11" x1="603.5" y1="300" x2="603.5" y2="586.5"/>
+<g>
+	<g>
+		<line class="st11" x1="406.7" y1="586.5" x2="603.5" y2="586.5"/>
+		<g>
+			<polygon class="st12" points="408.1,591.5 399.5,586.5 408.1,581.5 			"/>
+		</g>
+	</g>
+</g>
+<rect x="299.5" y="569.5" class="st3" width="100" height="30"/>
+<rect x="299" y="573.8" class="st0" width="95" height="32.2"/>
+<text transform="matrix(1 0 0 1 305.5654 580.8579)"><tspan x="0" y="0" class="st4 st18">Junior Milestone PR</tspan><tspan x="21.3" y="11" class="st4 st18">or Master</tspan></text>
+<rect x="168" y="650" class="st8" width="100" height="30"/>
+<rect x="168" y="660.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 187.6836 670.6978)" class="st4 st5">Issue #333</text>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.3548 0 0 -0.3606 263.0001 650.1775)" style="overflow:visible;"/>
+<rect x="171" y="601.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 185.6226 611.6978)" class="st4 st5">code review</text>
+<g>
+	<g>
+		<line class="st11" x1="250.1" y1="584.5" x2="291" y2="584.5"/>
+		<g>
+			<polygon class="st12" points="253.4,588.6 254.1,587.9 250.5,584.5 254.1,581.1 253.4,580.4 249,584.5 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st11" x1="249" y1="592.5" x2="289.9" y2="592.5"/>
+		<g>
+			<polygon class="st12" points="286.6,596.6 285.9,595.9 289.5,592.5 285.9,589.1 286.6,588.4 291,592.5 			"/>
+		</g>
+	</g>
+</g>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 209.6005 580.5562)" style="overflow:visible;"/>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 218.7929 589.7486)" style="overflow:visible;"/>
+<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 229.3995 584.7988)" style="overflow:visible;"/>
+<polygon class="st0" points="243,740.4 247.9,740.4 247.9,740.4 243,740.4 "/>
+<polygon class="st0" points="208.5,743.4 247.9,743.4 247.9,743.4 208.5,743.4 "/>
+<rect x="166" y="710" class="st8" width="100" height="30"/>
+<rect x="166" y="720.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 185.6836 730.6978)" class="st4 st5">Issue #333</text>
+<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 167.4999 707.6509)" style="overflow:visible;"/>
+<g>
+	<g>
+		<line class="st14" x1="326" y1="729.5" x2="279.7" y2="729.5"/>
+		<g>
+			<polygon points="281.1,724.5 272.5,729.5 281.1,734.5 			"/>
+		</g>
+	</g>
+</g>
+<line class="st13" x1="327.5" y1="600" x2="327.5" y2="730.5"/>
+<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 257 730)" style="overflow:visible;"/>
+<rect x="384.5" y="642.5" class="st16" width="100" height="56"/>
+<rect x="385" y="650.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 407.6514 660.6978)" class="st4 st5">Tag Repo</text>
+<g>
+	<g>
+		<line class="st17" x1="485.5" y1="676.5" x2="541.3" y2="676.5"/>
+		<g>
+			<polygon points="531.3,685 539.8,676.5 531.3,668 538.5,668 547,676.5 538.5,685 			"/>
+		</g>
+	</g>
+</g>
+<rect x="475" y="646" class="st0" width="85" height="48"/>
+<text transform="matrix(1 0 0 1 502.54 653.0996)"><tspan x="0" y="0" class="st4 st18">Deploy </tspan><tspan x="-6.6" y="11" class="st4 st18">to Staging</tspan></text>
+<line class="st15" x1="385" y1="600" x2="384.5" y2="671.5"/>
+<g>
+	<g>
+		<line class="st17" x1="655" y1="677.5" x2="891.8" y2="677.5"/>
+		<g>
+			<polygon points="881.8,686 890.3,677.5 881.8,669 889,669 897.5,677.5 889,686 			"/>
+		</g>
+	</g>
+</g>
+<rect x="809" y="651" class="st0" width="85" height="48"/>
+<text transform="matrix(1 0 0 1 836.54 658.0996)"><tspan x="0" y="0" class="st4 st18">Deploy </tspan><tspan x="-13.7" y="11" class="st4 st18">to Production</tspan></text>
+<rect x="721" y="45.5" class="st0" width="164.5" height="35.5"/>
+<text transform="matrix(1 0 0 1 775.4453 52.6001)"><tspan x="0" y="0" class="st4 st18">Code Release</tspan><tspan x="-51.6" y="11" class="st4 st18">- Monday one week after code freeze - </tspan></text>
+<rect x="391" y="271.7" class="st0" width="81.7" height="23.3"/>
+<text transform="matrix(1 0 0 1 403.3838 278.7666)"><tspan x="0" y="0" class="st4 st18">major version</tspan><tspan x="8" y="11" class="st4 st18"> (i.e. 1.5.0)</tspan></text>
+<rect x="394" y="669.7" class="st0" width="81.7" height="23.3"/>
+<text transform="matrix(1 0 0 1 406.0635 676.7666)"><tspan x="0" y="0" class="st4 st18">minor version</tspan><tspan x="8.3" y="11" class="st4 st18"> (i.e. 1.5.1)</tspan></text>
+<use xlink:href="#Restricted"  width="64" height="64" x="-32" y="-32" transform="matrix(0.2344 0 0 -0.2344 1091.5 235.5)" style="overflow:visible;"/>
+<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 1092 208)" style="overflow:visible;"/>
+<rect x="588" y="219.7" class="st0" width="28" height="18.7"/>
+<text transform="matrix(1 0 0 1 597.6201 226.7666)" class="st4 st18">or</text>
+<rect x="552" y="163" class="st8" width="100" height="30"/>
+<rect x="552" y="173.8" class="st0" width="100" height="13.2"/>
+<text transform="matrix(1 0 0 1 571.6836 183.6978)" class="st4 st5">Issue #333</text>
+<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 642 182)" style="overflow:visible;"/>
+<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 555.4999 160.6509)" style="overflow:visible;"/>
+<g>
+	<g>
+		<line class="st17" x1="652" y1="181.5" x2="882.8" y2="181.5"/>
+		<g>
+			<polygon points="872.8,190 881.3,181.5 872.8,173 880,173 888.5,181.5 880,190 			"/>
+		</g>
+	</g>
+</g>
+<rect x="803" y="152" class="st0" width="85" height="48"/>
+<text transform="matrix(1 0 0 1 830.54 159.0996)"><tspan x="0" y="0" class="st4 st18">Deploy </tspan><tspan x="-13.7" y="11" class="st4 st18">to Production</tspan></text>
+<line class="st19" x1="435.5" y1="224.5" x2="592" y2="224"/>
+<line class="st19" x1="615" y1="224" x2="803.5" y2="224.5"/>
+</svg>
