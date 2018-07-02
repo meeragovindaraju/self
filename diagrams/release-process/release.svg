@@ -8,26 +8,27 @@
 	.Illuminating_x0020_Aqua{fill:url(#SVGID_1_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
 	.Arched_x0020_Green{fill:url(#SVGID_2_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
 	.Half_x0020_Highlight_x0020_Blue{fill:url(#SVGID_3_);stroke:#FFFFFF;stroke-width:0.25;stroke-miterlimit:1;}
-	.st2{fill:#E6E6E6;}
-	.st3{fill:#2ACCFF;stroke:#1A1A1A;stroke-miterlimit:10;}
-	.st4{font-family:'NotoSans-Bold';}
-	.st5{font-size:14px;}
-	.st6{font-family:'NotoSans';}
-	.st7{font-size:12px;}
-	.st8{font-family:'MyriadPro-Regular';}
-	.st9{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
-	.st10{fill:#00FFFF;stroke:#1A1A1A;stroke-miterlimit:10;}
-	.st11{fill:#534741;}
-	.st12{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;}
-	.st13{fill:none;stroke:#1A1A1A;stroke-miterlimit:10;}
-	.st14{fill:#1A1A1A;}
-	.st15{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:2;}
-	.st16{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:2,2;}
-	.st17{fill:#2F0035;stroke:#000000;stroke-miterlimit:10;}
-	.st18{fill:#F1FFAA;stroke:#1A1A1A;stroke-miterlimit:10;}
-	.st19{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
-	.st20{font-size:10px;}
-	.st21{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3;}
+	.st2{font-family:'NotoSans';}
+	.st3{font-size:11px;}
+	.st4{font-size:12px;}
+	.st5{fill:#E6E6E6;}
+	.st6{fill:#2ACCFF;stroke:#1A1A1A;stroke-miterlimit:10;}
+	.st7{font-family:'NotoSans-Bold';}
+	.st8{font-size:14px;}
+	.st9{font-family:'MyriadPro-Regular';}
+	.st10{fill:none;stroke:#000000;stroke-width:4;stroke-miterlimit:10;}
+	.st11{fill:#00FFFF;stroke:#1A1A1A;stroke-miterlimit:10;}
+	.st12{fill:#534741;}
+	.st13{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3,3;}
+	.st14{fill:none;stroke:#1A1A1A;stroke-miterlimit:10;}
+	.st15{fill:#1A1A1A;}
+	.st16{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:2;}
+	.st17{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:2,2;}
+	.st18{fill:#2F0035;stroke:#000000;stroke-miterlimit:10;}
+	.st19{fill:#F1FFAA;stroke:#1A1A1A;stroke-miterlimit:10;}
+	.st20{fill:none;stroke:#000000;stroke-width:5;stroke-miterlimit:10;}
+	.st21{font-size:10px;}
+	.st22{fill:none;stroke:#000000;stroke-miterlimit:10;stroke-dasharray:3;}
 </style>
 <symbol  id="Check" viewBox="-32 -32 64 64">
 	<path d="M22.6,22.6C16.4,28.9,8.2,32,0,32s-16.4-3.1-22.6-9.4c-12.5-12.5-12.5-32.8,0-45.3C-16.4-28.9-8.2-32,0-32
@@ -90,28 +91,36 @@
 </linearGradient>
 <g id="bg">
 	<rect class="st1" width="1163" height="737"/>
+	<rect x="169" y="448" class="st0" width="122" height="33"/>
+	<text transform="matrix(1 0 0 1 169 456.3604)" class="st2 st3">the issue is closed</text>
+	<rect x="502" y="98" class="st0" width="244" height="35"/>
+	<text transform="matrix(1 0 0 1 502 107.1201)" class="st2 st4">Testers test closed issues for the release</text>
+	<rect x="97" y="621" class="st0" width="100" height="32"/>
+	<text transform="matrix(1 0 0 1 97 629.3604)"><tspan x="0" y="0" class="st2 st3">the issue is </tspan><tspan x="0" y="13.2" class="st2 st3">reopened</tspan></text>
+	<rect x="170" y="713" class="st0" width="122" height="33"/>
+	<text transform="matrix(1 0 0 1 170 721.3604)" class="st2 st3">the issue is closed</text>
 </g>
 <g id="diagram">
-	<rect x="985" y="79" class="st2" width="145" height="173"/>
-	<rect x="299.5" y="140.5" class="st3" width="100" height="30"/>
-	<rect x="166.5" y="218.5" class="st3" width="100" height="30"/>
+	<rect x="985" y="79" class="st5" width="145" height="173"/>
+	<rect x="299.5" y="140.5" class="st6" width="100" height="30"/>
+	<rect x="166.5" y="218.5" class="st6" width="100" height="30"/>
 	<rect x="92.7" y="53" class="st0" width="256.3" height="80.6"/>
-	<text transform="matrix(1 0 0 1 152.9863 63.6401)"><tspan x="0" y="0" class="st4 st5">Continuous Testing</tspan><tspan x="-40.5" y="14.4" class="st6 st7">Dev Server (devb.cnx.org, dev.cnx.org</tspan><tspan x="172.8" y="14.4" class="st8 st7">)</tspan></text>
+	<text transform="matrix(1 0 0 1 152.9863 63.6401)"><tspan x="0" y="0" class="st7 st8">Continuous Testing</tspan><tspan x="-40.5" y="14.4" class="st2 st4">Dev Server (devb.cnx.org, dev.cnx.org</tspan><tspan x="172.8" y="14.4" class="st9 st4">)</tspan></text>
 	<polygon class="st0" points="243,304.4 247.9,304.4 247.9,304.4 243,304.4 	"/>
 	<polygon class="st0" points="208.5,307.4 247.9,307.4 247.9,307.4 208.5,307.4 	"/>
-	<rect x="498.7" y="53" class="st0" width="212.7" height="80.6"/>
-	<text transform="matrix(1 0 0 1 538.8677 63.6401)"><tspan x="0" y="0" class="st4 st5">Regression Testing</tspan><tspan x="-24.5" y="14.4" class="st6 st7">Staging Server (staging.cnx.org)</tspan></text>
+	<rect x="498.7" y="53" class="st0" width="220.3" height="43"/>
+	<text transform="matrix(1 0 0 1 542.6406 63.6401)"><tspan x="0" y="0" class="st7 st8">Regression Testing</tspan><tspan x="-24.5" y="14.4" class="st2 st4">Staging Server (staging.cnx.org)</tspan></text>
 	<rect x="790.7" y="56" class="st0" width="212.7" height="80.6"/>
-	<text transform="matrix(1 0 0 1 870.2188 66.6401)"><tspan x="0" y="0" class="st4 st5">Release</tspan><tspan x="-23.8" y="14.4" class="st6 st7">Production Server</tspan></text>
-	<line class="st9" x1="434" y1="53" x2="434" y2="737"/>
-	<line class="st9" x1="799" y1="50" x2="803" y2="737"/>
-	<rect x="166" y="136" class="st10" width="100" height="30"/>
+	<text transform="matrix(1 0 0 1 870.2188 66.6401)"><tspan x="0" y="0" class="st7 st8">Release</tspan><tspan x="-23.8" y="14.4" class="st2 st4">Production Server</tspan></text>
+	<line class="st10" x1="434" y1="53" x2="434" y2="737"/>
+	<line class="st10" x1="799" y1="50" x2="803" y2="737"/>
+	<rect x="166" y="136" class="st11" width="100" height="30"/>
 	<rect x="166" y="146.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 180.6924 157.3979)" class="st6 st5">Issue #333</text>
+	<text transform="matrix(1 0 0 1 180.6924 157.3979)" class="st2 st8">Issue #333</text>
 	<g>
-		<line class="st11" x1="214.5" y1="170.5" x2="214.5" y2="214"/>
+		<line class="st12" x1="214.5" y1="170.5" x2="214.5" y2="214"/>
 		<g>
-			<line class="st12" x1="214.5" y1="170.5" x2="214.5" y2="212.8"/>
+			<line class="st13" x1="214.5" y1="170.5" x2="214.5" y2="212.8"/>
 			<g>
 				<path d="M209.7,206c0.2-0.1,0.5-0.1,0.7,0.2l4.1,6.5l4.1-6.5c0.1-0.2,0.5-0.3,0.7-0.2s0.3,0.5,0.2,0.7l-4.5,7.1
 					c-0.1,0.1-0.3,0.2-0.4,0.2s-0.3-0.1-0.4-0.2l-4.5-7.1c-0.1-0.1-0.1-0.2-0.1-0.3C209.5,206.2,209.6,206.1,209.7,206z"/>
@@ -119,42 +128,43 @@
 		</g>
 	</g>
 	<rect x="167" y="226.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 190.4561 237.3979)" class="st6 st5">PR #333</text>
+	<text transform="matrix(1 0 0 1 190.4561 237.3979)" class="st2 st8">PR #123</text>
 	<rect x="998.5" y="112.9" class="st0" width="135.5" height="177.1"/>
-	<text transform="matrix(1 0 0 1 998.4844 123.519)"><tspan x="0" y="0" class="st6 st5">Developer:</tspan><tspan x="0" y="28" class="st6 st5">Tester: </tspan><tspan x="0" y="56" class="st6 st5">Approved:</tspan><tspan x="0" y="84" class="st6 st5">Rejected: </tspan></text>
+	<text transform="matrix(1 0 0 1 998.4844 123.519)"><tspan x="0" y="0" class="st2 st8">Developer:</tspan><tspan x="0" y="28" class="st2 st8">Tester: </tspan><tspan x="0" y="56" class="st2 st8">Approved:</tspan><tspan x="0" y="84" class="st2 st8">Rejected: </tspan></text>
 	<rect x="299" y="144.8" class="st0" width="95" height="32.2"/>
-	<text transform="matrix(1 0 0 1 314.1665 153.2778)"><tspan x="0" y="0" class="st8 st7">Milestone PR</tspan><tspan x="8.8" y="11" class="st8 st7">or Master</tspan></text>
+	<text transform="matrix(1 0 0 1 314.1665 153.2778)"><tspan x="0" y="0" class="st9 st4">Milestone PR</tspan><tspan x="8.8" y="11" class="st9 st4">or Master</tspan></text>
 	<rect x="10" y="251.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 20.6831 262.3979)" class="st6 st5">code review</text>
+	<text transform="matrix(1 0 0 1 20.6831 262.3979)" class="st2 st8">code review</text>
 	<g>
 		<g>
-			<line class="st13" x1="104.1" y1="233.5" x2="145" y2="233.5"/>
+			<line class="st14" x1="104.1" y1="233.5" x2="145" y2="233.5"/>
 			<g>
-				<polygon class="st14" points="107.4,237.6 108.1,236.9 104.5,233.5 108.1,230.1 107.4,229.4 103,233.5 				"/>
+				<polygon class="st15" points="107.4,237.6 108.1,236.9 104.5,233.5 108.1,230.1 107.4,229.4 103,233.5 				"/>
 			</g>
 		</g>
 	</g>
 	<line class="st0" x1="210" y1="379" x2="208" y2="379"/>
 	<g>
 		<g>
-			<line class="st13" x1="103" y1="241.5" x2="143.9" y2="241.5"/>
+			<line class="st14" x1="103" y1="241.5" x2="143.9" y2="241.5"/>
 			<g>
-				<polygon class="st14" points="140.6,245.6 139.9,244.9 143.5,241.5 139.9,238.1 140.6,237.4 145,241.5 				"/>
+				<polygon class="st15" points="140.6,245.6 139.9,244.9 143.5,241.5 139.9,238.1 140.6,237.4 145,241.5 				"/>
 			</g>
 		</g>
 	</g>
-	<line class="st13" x1="312.5" y1="233.5" x2="265.5" y2="233.5"/>
+	<line class="st14" x1="312.5" y1="233.5" x2="265.5" y2="233.5"/>
 	<g>
 		<g>
-			<line class="st13" x1="312.5" y1="183.7" x2="312.5" y2="233.5"/>
+			<line class="st14" x1="312.5" y1="183.7" x2="312.5" y2="233.5"/>
 			<g>
-				<polygon class="st14" points="307.5,185.1 312.5,176.5 317.5,185.1 				"/>
+				<polygon class="st15" points="307.5,185.1 312.5,176.5 317.5,185.1 				"/>
 			</g>
 		</g>
 	</g>
-	<rect x="167" y="413" class="st10" width="100" height="30"/>
-	<rect x="167" y="423.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 181.6924 434.3979)" class="st6 st5">Issue #333</text>
+	<rect x="167" y="413" class="st11" width="100" height="30"/>
+	
+		<rect x="210.4" y="373.4" transform="matrix(7.466625e-03 -1 1 7.466625e-03 -207.9872 637.2115)" class="st0" width="13.2" height="100"/>
+	<text transform="matrix(1 0 0 1 181.7012 427.0249)" class="st2 st8">Issue #333</text>
 	
 		<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.3548 0 0 -0.3606 261.0001 136.1775)" style="overflow:visible;"/>
 	
@@ -168,65 +178,65 @@
 	
 		<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.3548 0 0 -0.3606 1096.0001 119.1775)" style="overflow:visible;"/>
 	
-		<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 257 432)" style="overflow:visible;"/>
+		<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 257 433)" style="overflow:visible;"/>
 	
 		<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 170.4999 410.6509)" style="overflow:visible;"/>
 	
 		<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 1097.4999 148.6509)" style="overflow:visible;"/>
-	<rect x="166" y="281" class="st10" width="100" height="30"/>
-	<rect x="166" y="291.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 185.6836 301.6978)" class="st8 st5">Issue #333</text>
+	<rect x="166" y="281" class="st11" width="100" height="30"/>
+	<rect x="166" y="285.8" class="st0" width="100" height="13.2"/>
+	<text transform="matrix(1 0 0 1 185.6836 295.6978)" class="st9 st8">Issue #333</text>
 	
 		<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 167.4999 278.6509)" style="overflow:visible;"/>
 	
-		<use xlink:href="#Restricted"  width="64" height="64" x="-32" y="-32" transform="matrix(0.2344 0 0 -0.2344 256.5 300.5)" style="overflow:visible;"/>
-	<rect x="166.5" y="354.5" class="st3" width="100" height="30"/>
+		<use xlink:href="#Restricted"  width="64" height="64" x="-32" y="-32" transform="matrix(0.2344 0 0 -0.2344 256.5 301.5)" style="overflow:visible;"/>
+	<rect x="166.5" y="354.5" class="st6" width="100" height="30"/>
 	<rect x="167" y="362.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 190.4561 373.3979)" class="st6 st5">PR #334</text>
+	<text transform="matrix(1 0 0 1 190.4561 373.3979)" class="st2 st8">PR #125</text>
 	
 		<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.3548 0 0 -0.3606 261.0001 354.1775)" style="overflow:visible;"/>
-	<line class="st15" x1="369.5" y1="170" x2="369.5" y2="427.5"/>
+	<line class="st16" x1="369.5" y1="170" x2="369.5" y2="427.5"/>
 	<g>
 		<g>
-			<line class="st16" x1="326" y1="300.5" x2="279.7" y2="300.5"/>
+			<line class="st17" x1="326" y1="300.5" x2="279.7" y2="300.5"/>
 			<g>
 				<polygon points="281.1,295.5 272.5,300.5 281.1,305.5 				"/>
 			</g>
 		</g>
 	</g>
-	<line class="st13" x1="345.5" y1="373.5" x2="264.5" y2="373.5"/>
+	<line class="st14" x1="345.5" y1="373.5" x2="266.5" y2="375.5"/>
 	<g>
 		<g>
-			<line class="st13" x1="345.5" y1="183.7" x2="345.5" y2="373.5"/>
+			<line class="st14" x1="345.5" y1="183.7" x2="345.5" y2="373.5"/>
 			<g>
-				<polygon class="st14" points="340.5,185.1 345.5,176.5 350.5,185.1 				"/>
+				<polygon class="st15" points="340.5,185.1 345.5,176.5 350.5,185.1 				"/>
 			</g>
 		</g>
 	</g>
-	<line class="st15" x1="327.5" y1="171" x2="327.5" y2="301.5"/>
+	<line class="st16" x1="327.5" y1="171" x2="327.5" y2="301.5"/>
 	<g>
 		<g>
-			<line class="st16" x1="369.5" y1="427.5" x2="279.7" y2="427.5"/>
+			<line class="st17" x1="369.5" y1="427.5" x2="279.7" y2="427.5"/>
 			<g>
 				<polygon points="281.1,422.5 272.5,427.5 281.1,432.5 				"/>
 			</g>
 		</g>
 	</g>
 	<rect x="12" y="390.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 22.6831 401.3979)" class="st6 st5">code review</text>
+	<text transform="matrix(1 0 0 1 22.6831 401.3979)" class="st2 st8">code review</text>
 	<g>
 		<g>
-			<line class="st13" x1="104.1" y1="370.5" x2="145" y2="370.5"/>
+			<line class="st14" x1="104.1" y1="370.5" x2="145" y2="370.5"/>
 			<g>
-				<polygon class="st14" points="107.4,374.6 108.1,373.9 104.5,370.5 108.1,367.1 107.4,366.4 103,370.5 				"/>
+				<polygon class="st15" points="107.4,374.6 108.1,373.9 104.5,370.5 108.1,367.1 107.4,366.4 103,370.5 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st13" x1="103" y1="378.5" x2="143.9" y2="378.5"/>
+			<line class="st14" x1="103" y1="378.5" x2="143.9" y2="378.5"/>
 			<g>
-				<polygon class="st14" points="140.6,382.6 139.9,381.9 143.5,378.5 139.9,375.1 140.6,374.4 145,378.5 				"/>
+				<polygon class="st15" points="140.6,382.6 139.9,381.9 143.5,378.5 139.9,375.1 140.6,374.4 145,378.5 				"/>
 			</g>
 		</g>
 	</g>
@@ -237,79 +247,79 @@
 	
 		<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 70.3995 370.7989)" style="overflow:visible;"/>
 	<g>
-		<line class="st11" x1="212.5" y1="316.5" x2="212.5" y2="350.5"/>
+		<line class="st12" x1="216.5" y1="316" x2="216.5" y2="350"/>
 		<g>
-			<line class="st12" x1="212.5" y1="316.5" x2="212.5" y2="349.3"/>
+			<line class="st13" x1="216.5" y1="316" x2="216.5" y2="348.8"/>
 			<g>
-				<path d="M207.7,342.5c0.2-0.1,0.5-0.1,0.7,0.2l4.1,6.5l4.1-6.5c0.1-0.2,0.5-0.3,0.7-0.2s0.3,0.5,0.2,0.7l-4.5,7.1
-					c-0.1,0.1-0.3,0.2-0.4,0.2s-0.3-0.1-0.4-0.2l-4.5-7.1c-0.1-0.1-0.1-0.2-0.1-0.3C207.5,342.7,207.6,342.6,207.7,342.5z"/>
+				<path d="M211.7,342c0.2-0.1,0.5-0.1,0.7,0.2l4.1,6.5l4.1-6.5c0.1-0.2,0.5-0.3,0.7-0.2s0.3,0.5,0.2,0.7l-4.5,7.1
+					c-0.1,0.1-0.3,0.2-0.4,0.2s-0.3-0.1-0.4-0.2l-4.5-7.1c-0.1-0.1-0.1-0.2-0.1-0.3C211.5,342.2,211.6,342.1,211.7,342z"/>
 			</g>
 		</g>
 	</g>
-	<line class="st17" x1="383" y1="171" x2="382.5" y2="244.5"/>
-	<rect x="382.5" y="214.5" class="st18" width="100" height="62"/>
+	<line class="st18" x1="383" y1="171" x2="382.5" y2="244.5"/>
+	<rect x="382.5" y="214.5" class="st19" width="100" height="62"/>
 	<rect x="383" y="222.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 402.2109 233.3979)" class="st6 st5">Tag Repo</text>
+	<text transform="matrix(1 0 0 1 402.2109 233.3979)" class="st2 st8">Tag Repo</text>
 	<g>
 		<g>
-			<line class="st19" x1="483" y1="254.5" x2="532.3" y2="254.5"/>
+			<line class="st20" x1="483" y1="254.5" x2="532.3" y2="254.5"/>
 			<g>
 				<polygon points="522.3,263 530.8,254.5 522.3,246 529.5,246 538,254.5 529.5,263 				"/>
 			</g>
 		</g>
 	</g>
 	<rect x="362" y="23.5" class="st0" width="145.5" height="37.5"/>
-	<text transform="matrix(1 0 0 1 406.7739 31.1001)"><tspan x="0" y="0" class="st6 st20">Code freeze </tspan><tspan x="-28.1" y="11" class="st6 st20">- every other Thursday - </tspan></text>
+	<text transform="matrix(1 0 0 1 406.7739 31.1001)"><tspan x="0" y="0" class="st2 st21">Code freeze </tspan><tspan x="-28.1" y="11" class="st2 st21">- every other Thursday - </tspan></text>
 	<rect x="473" y="222" class="st0" width="85" height="48"/>
-	<text transform="matrix(1 0 0 1 499.0913 229.5996)"><tspan x="0" y="0" class="st6 st20">Deploy </tspan><tspan x="-7.6" y="11" class="st6 st20">to Staging</tspan></text>
-	<rect x="555" y="629" class="st10" width="100" height="30"/>
-	<rect x="555" y="639.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 574.6836 649.6978)" class="st8 st5">Issue #333</text>
+	<text transform="matrix(1 0 0 1 499.0913 229.5996)"><tspan x="0" y="0" class="st2 st21">Deploy </tspan><tspan x="-7.6" y="11" class="st2 st21">to Staging</tspan></text>
+	<rect x="555" y="629" class="st11" width="100" height="30"/>
+	<rect x="555" y="633.8" class="st0" width="100" height="13.2"/>
+	<text transform="matrix(1 0 0 1 574.6836 643.6978)" class="st9 st8">Issue #333</text>
 	
-		<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 645 648)" style="overflow:visible;"/>
+		<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 645 649)" style="overflow:visible;"/>
 	
 		<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 558.4999 626.6509)" style="overflow:visible;"/>
 	<polygon class="st0" points="631,262.4 635.9,262.4 635.9,262.4 631,262.4 	"/>
 	<polygon class="st0" points="596.5,265.4 635.9,265.4 635.9,265.4 596.5,265.4 	"/>
-	<rect x="554" y="239" class="st10" width="100" height="30"/>
-	<rect x="554" y="249.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 573.6836 259.6978)" class="st8 st5">Issue #333</text>
+	<rect x="554" y="239" class="st11" width="100" height="30"/>
+	<rect x="554" y="244.8" class="st0" width="100" height="13.2"/>
+	<text transform="matrix(1 0 0 1 573.6836 254.6978)" class="st9 st8">Issue #333</text>
 	
 		<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 555.4999 236.6509)" style="overflow:visible;"/>
 	
-		<use xlink:href="#Restricted"  width="64" height="64" x="-32" y="-32" transform="matrix(0.2344 0 0 -0.2344 644.5 258.5)" style="overflow:visible;"/>
-	<line class="st13" x1="603.5" y1="269" x2="603.5" y2="555.5"/>
+		<use xlink:href="#Restricted"  width="64" height="64" x="-32" y="-32" transform="matrix(0.2344 0 0 -0.2344 644.5 259.5)" style="overflow:visible;"/>
+	<line class="st14" x1="603.5" y1="269" x2="603.5" y2="555.5"/>
 	<g>
 		<g>
-			<line class="st13" x1="406.7" y1="555.5" x2="603.5" y2="555.5"/>
+			<line class="st14" x1="406.7" y1="555.5" x2="603.5" y2="555.5"/>
 			<g>
-				<polygon class="st14" points="408.1,560.5 399.5,555.5 408.1,550.5 				"/>
+				<polygon class="st15" points="408.1,560.5 399.5,555.5 408.1,550.5 				"/>
 			</g>
 		</g>
 	</g>
-	<rect x="299.5" y="538.5" class="st3" width="100" height="30"/>
-	<rect x="299" y="542.8" class="st0" width="95" height="32.2"/>
-	<text transform="matrix(1 0 0 1 300.7725 550.3579)"><tspan x="0" y="0" class="st6 st20">Junior Milestone PR</tspan><tspan x="22.9" y="11" class="st6 st20">or Master</tspan></text>
-	<rect x="168" y="619" class="st10" width="100" height="30"/>
+	<rect x="299.5" y="538.5" class="st6" width="100" height="30"/>
+	<rect x="302" y="542.8" class="st0" width="95" height="32.2"/>
+	<text transform="matrix(1 0 0 1 303.7725 550.3579)"><tspan x="0" y="0" class="st2 st21">Junior Milestone PR</tspan><tspan x="22.9" y="11" class="st2 st21">or Master</tspan></text>
+	<rect x="168" y="619" class="st11" width="100" height="30"/>
 	<rect x="168" y="629.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 182.6924 640.3979)" class="st6 st5">Issue #333</text>
+	<text transform="matrix(1 0 0 1 182.6924 640.3979)" class="st2 st8">Issue #333</text>
 	
 		<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.3548 0 0 -0.3606 263.0001 619.1775)" style="overflow:visible;"/>
 	<rect x="171" y="572.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 181.6831 583.3979)" class="st6 st5">code review</text>
+	<text transform="matrix(1 0 0 1 181.6831 583.3979)" class="st2 st8">code review</text>
 	<g>
 		<g>
-			<line class="st13" x1="250.1" y1="553.5" x2="291" y2="553.5"/>
+			<line class="st14" x1="250.1" y1="553.5" x2="291" y2="553.5"/>
 			<g>
-				<polygon class="st14" points="253.4,557.6 254.1,556.9 250.5,553.5 254.1,550.1 253.4,549.4 249,553.5 				"/>
+				<polygon class="st15" points="253.4,557.6 254.1,556.9 250.5,553.5 254.1,550.1 253.4,549.4 249,553.5 				"/>
 			</g>
 		</g>
 	</g>
 	<g>
 		<g>
-			<line class="st13" x1="249" y1="561.5" x2="289.9" y2="561.5"/>
+			<line class="st14" x1="249" y1="561.5" x2="289.9" y2="561.5"/>
 			<g>
-				<polygon class="st14" points="286.6,565.6 285.9,564.9 289.5,561.5 285.9,558.1 286.6,557.4 291,561.5 				"/>
+				<polygon class="st15" points="286.6,565.6 285.9,564.9 289.5,561.5 285.9,558.1 286.6,557.4 291,561.5 				"/>
 			</g>
 		</g>
 	</g>
@@ -321,76 +331,76 @@
 		<use xlink:href="#Tools"  width="62" height="62" x="-31" y="-31" transform="matrix(0.2509 0.2509 0.255 -0.255 229.3995 553.7988)" style="overflow:visible;"/>
 	<polygon class="st0" points="243,709.4 247.9,709.4 247.9,709.4 243,709.4 	"/>
 	<polygon class="st0" points="208.5,712.4 247.9,712.4 247.9,712.4 208.5,712.4 	"/>
-	<rect x="166" y="679" class="st10" width="100" height="30"/>
-	<rect x="166" y="689.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 180.6924 700.3979)" class="st6 st5">Issue #333</text>
+	<rect x="166" y="679" class="st11" width="100" height="30"/>
+	<rect x="166" y="681.8" class="st0" width="100" height="13.2"/>
+	<text transform="matrix(1 0 0 1 180.6924 692.3979)" class="st2 st8">Issue #333</text>
 	
 		<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 167.4999 676.6509)" style="overflow:visible;"/>
 	<g>
 		<g>
-			<line class="st16" x1="326" y1="698.5" x2="279.7" y2="698.5"/>
+			<line class="st17" x1="326" y1="698.5" x2="279.7" y2="698.5"/>
 			<g>
 				<polygon points="281.1,693.5 272.5,698.5 281.1,703.5 				"/>
 			</g>
 		</g>
 	</g>
-	<line class="st15" x1="327.5" y1="569" x2="327.5" y2="699.5"/>
+	<line class="st16" x1="327.5" y1="569" x2="327.5" y2="699.5"/>
 	
 		<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 257 699)" style="overflow:visible;"/>
-	<rect x="384.5" y="611.5" class="st18" width="100" height="56"/>
+	<rect x="384.5" y="611.5" class="st19" width="100" height="56"/>
 	<rect x="385" y="619.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 404.2109 630.3979)" class="st6 st5">Tag Repo</text>
+	<text transform="matrix(1 0 0 1 404.2109 630.3979)" class="st2 st8">Tag Repo</text>
 	<g>
 		<g>
-			<line class="st19" x1="485.5" y1="645.5" x2="541.3" y2="645.5"/>
+			<line class="st20" x1="485.5" y1="645.5" x2="541.3" y2="645.5"/>
 			<g>
 				<polygon points="531.3,654 539.8,645.5 531.3,637 538.5,637 547,645.5 538.5,654 				"/>
 			</g>
 		</g>
 	</g>
 	<rect x="476" y="612" class="st0" width="85" height="48"/>
-	<text transform="matrix(1 0 0 1 502.0913 619.5996)"><tspan x="0" y="0" class="st6 st20">Deploy </tspan><tspan x="-7.6" y="11" class="st6 st20">to Staging</tspan></text>
-	<line class="st17" x1="385" y1="569" x2="384.5" y2="640.5"/>
+	<text transform="matrix(1 0 0 1 502.0913 619.5996)"><tspan x="0" y="0" class="st2 st21">Deploy </tspan><tspan x="-7.6" y="11" class="st2 st21">to Staging</tspan></text>
+	<line class="st18" x1="385" y1="569" x2="384.5" y2="640.5"/>
 	<g>
 		<g>
-			<line class="st19" x1="655" y1="646.5" x2="891.8" y2="646.5"/>
+			<line class="st20" x1="655" y1="646.5" x2="891.8" y2="646.5"/>
 			<g>
 				<polygon points="881.8,655 890.3,646.5 881.8,638 889,638 897.5,646.5 889,655 				"/>
 			</g>
 		</g>
 	</g>
 	<rect x="809" y="615" class="st0" width="85" height="48"/>
-	<text transform="matrix(1 0 0 1 835.0913 622.5996)"><tspan x="0" y="0" class="st6 st20">Deploy </tspan><tspan x="-15.6" y="11" class="st6 st20">to Production</tspan></text>
+	<text transform="matrix(1 0 0 1 835.0913 622.5996)"><tspan x="0" y="0" class="st2 st21">Deploy </tspan><tspan x="-15.6" y="11" class="st2 st21">to Production</tspan></text>
 	<rect x="695" y="18.5" class="st0" width="212" height="35.5"/>
-	<text transform="matrix(1 0 0 1 769.562 26.1001)"><tspan x="0" y="0" class="st6 st20">Code Release</tspan><tspan x="-58.4" y="11" class="st6 st20">- Monday one week after code freeze - </tspan></text>
+	<text transform="matrix(1 0 0 1 769.562 26.1001)"><tspan x="0" y="0" class="st2 st21">Code Release</tspan><tspan x="-58.4" y="11" class="st2 st21">- Monday one week after code freeze - </tspan></text>
 	<rect x="391" y="240.7" class="st0" width="81.7" height="23.3"/>
-	<text transform="matrix(1 0 0 1 399.4502 248.2666)"><tspan x="0" y="0" class="st6 st20">major version</tspan><tspan x="8.5" y="11" class="st6 st20"> (i.e. 1.5.0)</tspan></text>
+	<text transform="matrix(1 0 0 1 399.4502 248.2666)"><tspan x="0" y="0" class="st2 st21">major version</tspan><tspan x="8.5" y="11" class="st2 st21"> (i.e. 1.5.0)</tspan></text>
 	<rect x="394" y="638.7" class="st0" width="81.7" height="23.3"/>
-	<text transform="matrix(1 0 0 1 402.165 646.2666)"><tspan x="0" y="0" class="st6 st20">minor version</tspan><tspan x="8.8" y="11" class="st6 st20"> (i.e. 1.5.1)</tspan></text>
+	<text transform="matrix(1 0 0 1 402.165 646.2666)"><tspan x="0" y="0" class="st2 st21">minor version</tspan><tspan x="8.8" y="11" class="st2 st21"> (i.e. 1.5.1)</tspan></text>
 	
 		<use xlink:href="#Restricted"  width="64" height="64" x="-32" y="-32" transform="matrix(0.2344 0 0 -0.2344 1096.5 204.5)" style="overflow:visible;"/>
 	
 		<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 1097 177)" style="overflow:visible;"/>
 	<rect x="591" y="187.7" class="st0" width="28" height="18.7"/>
-	<text transform="matrix(1 0 0 1 600.6201 194.7666)" class="st8 st20">or</text>
-	<rect x="552" y="132" class="st10" width="100" height="30"/>
-	<rect x="552" y="142.8" class="st0" width="100" height="13.2"/>
-	<text transform="matrix(1 0 0 1 571.6836 152.6978)" class="st8 st5">Issue #333</text>
+	<text transform="matrix(1 0 0 1 600.6201 194.7666)" class="st9 st21">or</text>
+	<rect x="552" y="132" class="st11" width="100" height="30"/>
+	<rect x="552" y="136.8" class="st0" width="100" height="13.2"/>
+	<text transform="matrix(1 0 0 1 571.6836 146.6978)" class="st9 st8">Issue #333</text>
 	
-		<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 642 151)" style="overflow:visible;"/>
+		<use xlink:href="#Check"  width="64" height="64" x="-32" y="-32" transform="matrix(0.25 0 0 -0.25 642 152)" style="overflow:visible;"/>
 	
 		<use xlink:href="#Search_2"  width="63.2" height="61.3" x="-31.6" y="-30.6" transform="matrix(0.3007 0 0 -0.305 555.4999 129.6509)" style="overflow:visible;"/>
 	<g>
 		<g>
-			<line class="st19" x1="652" y1="150.5" x2="882.8" y2="150.5"/>
+			<line class="st20" x1="652" y1="150.5" x2="882.8" y2="150.5"/>
 			<g>
 				<polygon points="872.8,159 881.3,150.5 872.8,142 880,142 888.5,150.5 880,159 				"/>
 			</g>
 		</g>
 	</g>
 	<rect x="803" y="118" class="st0" width="85" height="48"/>
-	<text transform="matrix(1 0 0 1 829.0913 125.5996)"><tspan x="0" y="0" class="st6 st20">Deploy </tspan><tspan x="-15.6" y="11" class="st6 st20">to Production</tspan></text>
-	<line class="st21" x1="435.5" y1="193.5" x2="592" y2="193"/>
-	<line class="st21" x1="615" y1="193" x2="803.5" y2="193.5"/>
+	<text transform="matrix(1 0 0 1 829.0913 125.5996)"><tspan x="0" y="0" class="st2 st21">Deploy </tspan><tspan x="-15.6" y="11" class="st2 st21">to Production</tspan></text>
+	<line class="st22" x1="435.5" y1="193.5" x2="592" y2="193"/>
+	<line class="st22" x1="615" y1="193" x2="803.5" y2="193.5"/>
 </g>
 </svg>
