@@ -1,5 +1,5 @@
 ---
-name: Release Review Epic
+name: CNX Release Review Epic
 about: Create an issue as an Epic in Zenhub in order to track all issues for a given CNX release.
 
 ---
