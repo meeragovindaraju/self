@@ -30,6 +30,24 @@ in Zenhub
 - 1
 - 2
 
+## Repo Checklist (Books+CNX)
+- [ ] **oer.exports** (*Helene*)
+	- [ ] https://github.com/Connexions/oer.exports/blob/master/version.txt should match current release
+	- [ ] Release created in https://github.com/Connexions/oer.exports/releases
+	- [ ] New RhaptosPrint egg should be built by DevOps (they need the version number)
+- [ ] **cnx-recipes** (*Helene*)
+	- [ ] Release created in https://github.com/Connexions/cnx-recipes/releases
+	- [ ] cnx-deploy: `environments/__prod_envs/files/publishing-requirements.txt` should be updated -- a bot will automatically create this PR, which will need to be reviewed and merged.
+- [ ] **webview** (*Helene*)
+ 	- [ ] Release created in https://github.com/Connexions/webview/releases
+	- [ ] Tarball for version needs to be available at https://packages.cnx.org/js-builds/ (I think Jenkins builds this automatically?)
+	- [ ] cnx-deploy: needs a manual PR opened, reviewed, and merged to update `environments/__prod_envs/vars/versions.yml`
+- [ ] **cnx-archive** (*Ross or Mulich*)
+ 	- [ ] Release tag created in GitHub
+ 	- [ ] PyPi version revved
+	- [ ] cnx-deploy: `environments/__prod_envs/files/publishing-requirements.txt` should be updated -- a bot will automatically create this PR, which will need to be reviewed and merged.
+- [ ] more CNX repos here etc.
+
 ## Links to DevOps cards:
 - staging
 - prod
