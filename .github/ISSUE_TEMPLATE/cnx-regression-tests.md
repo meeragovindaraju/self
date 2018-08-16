@@ -6,7 +6,7 @@ about: Recurring issue for each CNX release to track status of regression test r
 
 CNX regression test run milestone link: INSERT TESTRAIL LINK
 
-- [ ] Check Sourav's credentials (`souravwebexpertindia`) on staging 
+- [ ] Make sure Sourav can publish on staging 
 - [ ] Prepare and send out test runs
 - [ ] Monitor/follow up on offshore testers 
 - [ ] Non-offshore regression tests
