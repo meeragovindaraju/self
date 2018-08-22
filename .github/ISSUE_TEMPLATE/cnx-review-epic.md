@@ -49,7 +49,7 @@ in Zenhub
  	- [ ] Release tag created in GitHub
  	- [ ] PyPi version revved
 	- [ ] cnx-deploy: `environments/__prod_envs/files/publishing-requirements.txt` should be updated -- a bot will automatically create this PR, which will need to be reviewed and merged.
-- [ ] more CNX repos here etc.
+- [ ] more CNX repos here etc. -- full list here: https://github.com/Connexions/cnx/issues/8
 </details>
 
 ## Links to DevOps cards:
