@@ -23,12 +23,10 @@ in Zenhub
 - etc.
 
 ## Demo:
+*(hyperlink the header above to the filter view for CNX milestone, release, and label: `rc-demo`)*
 - 1
 - 2
 
-## No Demo:
-- 1
-- 2
 
 ## Repo Checklist (Books+CNX)
 <details>
