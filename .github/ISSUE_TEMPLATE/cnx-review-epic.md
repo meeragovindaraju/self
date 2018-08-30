@@ -29,9 +29,6 @@ in Zenhub
 
 
 ## Repo Checklist (Books+CNX)
-<details>
-<summary>Click here to see full checklist</summary>
-	
 - [ ] **oer.exports** (*Helene*)
 	- [ ] https://github.com/Connexions/oer.exports/blob/master/version.txt should match current release
 	- [ ] Release created in https://github.com/Connexions/oer.exports/releases
@@ -48,7 +45,6 @@ in Zenhub
  	- [ ] PyPi version revved
 	- [ ] cnx-deploy: `environments/__prod_envs/files/publishing-requirements.txt` should be updated -- a bot will automatically create this PR, which will need to be reviewed and merged.
 - [ ] more CNX repos here etc. -- full list here: https://github.com/Connexions/cnx/issues/8
-</details>
 
 ## Links to DevOps cards:
 - staging
