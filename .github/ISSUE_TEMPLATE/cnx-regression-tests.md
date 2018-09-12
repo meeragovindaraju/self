@@ -4,6 +4,7 @@ about: Recurring issue for each CNX release to track status of regression test r
 
 ---
 `# (Recurring) Webview, legacy, and batch regression tests for 201X.XX.XX release`
+These tests cannot start until we get RC code onto staging.
 
 CNX regression test run milestone link: INSERT TESTRAIL LINK
 
